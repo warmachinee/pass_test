@@ -1,0 +1,16 @@
+.topnav{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 4rem;
+  width: 100%;
+  border: 2px black solid;
+}
+.button{
+  position: absolute;
+  top:10rem;
+}
+.buttonPass{
+  position: absolute;
+  top:12rem;
+}
